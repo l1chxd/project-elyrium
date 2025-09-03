@@ -1,7 +1,5 @@
 # Next.js + Tailwind CSS + TypeScript Starter and Boilerplate
 
-<div align="center">
-
 # project-elyrium
 
 **project-elyrium** ist ein KI-gestütztes Marktprognose-Dashboard, das mit **Next.js**, **Tailwind CSS**, **TypeScript** und einem **FastAPI-Backend** entwickelt wird. Ziel ist es, auf täglicher, wöchentlicher und monatlicher Basis präzise Kursprognosen für Kryptowährungen (z. B. BTC/USD) zu liefern – inklusive Entry-Zonen, Confidence-Werten und Chart-Visualisierungen.
